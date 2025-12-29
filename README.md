@@ -1,6 +1,6 @@
 ## Hola! Soy Juan Ramírez 👋
 
-### Desarrollador Full Stack | JavaScript Specialist
+### Desarrollador Full Stack | JavaScript
 
 [![GitHub followers](https://img.shields.io/github/followers/annjudev?label=Followers&style=social)](https://github.com/annjudev)
 [![GitHub stars](https://img.shields.io/github/stars/annjudev?label=Stars&style=social)](https://github.com/annjudev)
