@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Desarrollador Full Stack con **2 años de experiencia** en la industria del desarrollo web, especializado en la creación de aplicaciones modernas, eficientes y escalables. Apasionado por las tecnologías JavaScript y el desarrollo de interfaces de usuario intuitivas.
+Desarrollador Full Stack con **2 años de experiencia** en la industria del desarrollo web, especializado en la creación de aplicaciones modernas, eficientes y escalables. Apasionado por las tecnolog[...]
 
 **🎯 Especialización:** Desarrollo web moderno con enfoque en rendimiento y experiencia de usuario
 
@@ -36,6 +36,7 @@ Desarrollador Full Stack con **2 años de experiencia** en la industria del desa
 
 ¿Interesado en colaborar o tienes algún proyecto en mente?
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanchoramiez2001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annjudev)
 
 ---
