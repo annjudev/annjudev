@@ -1,7 +1,5 @@
 ## Hola! Soy Juan Ramírez 👋
 
-<img src="./img/personal-photo.jpeg" alt="Juan Ramírez" width="200" style="border-radius: 50%;" />
-
 ### Desarrollador Full Stack | JavaScript Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/annjudev?label=Followers&style=social)](https://github.com/annjudev)
@@ -33,21 +31,6 @@ Desarrollador Full Stack con **2 años de experiencia** en la industria del desa
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=annjudev&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=annjudev&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=annjudev&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
 
 ## 📫 Contacto
 
@@ -60,7 +43,5 @@ Desarrollador Full Stack con **2 años de experiencia** en la industria del desa
 <div align="center">
   
 **💡 Abierto a nuevas oportunidades y colaboraciones**
-
-![Visitantes del perfil](https://komarev.com/ghpvc/?username=annjudev&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
 
 </div>
