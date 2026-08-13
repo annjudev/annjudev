@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Juan Ramírez 👋</h1>
-  <h3>Desarrollador Full Stack | Transformando ideas en productos digitales</h3>
+  <h3>Desarrollador Full Stack | Desarrollando ideas en productos digitales</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/byjuanramirez/" target="_blank">
@@ -19,19 +19,16 @@
 
 ## 🚀 Mi Visión Profesional
 
-No solo escribo código; **construyo soluciones digitales que generan impacto**. Como Desarrollador Full Stack, me especializo en llevar proyectos desde la etapa de concepción hasta su despliegue, asegurando que cada línea de código aporte valor real al negocio y ofrezca una experiencia de usuario excepcional.
+No solo es código; **son soluciones digitales agiles que generan impacto**. Como Desarrollador Full Stack, trabajo en llevar proyectos desde la etapa de concepción hasta su despliegue, asegurando mejoras continuas, y desarrollo constante para un producto útil y facil de entender para el usuario final.
 
 - 🎯 **Propuesta de Valor:** Desarrollo de aplicaciones web modernas, rápidas y escalables, fusionando un diseño intuitivo con arquitecturas robustas.
-- 🧠 **Filosofía de Trabajo:** Apuesto por el código limpio, las mejores prácticas de la industria y la mentalidad de aprendizaje continuo.
-- 🛠️ **Especialidad:** Dominio del ecosistema JavaScript para crear soluciones de principio a fin (End-to-End).
-- 📈 **Trayectoria:** Más de 2 años aportando valor y resolviendo problemas complejos en la industria tecnológica.
+- 🧠 **Filosofía de Trabajo:** Apuesto por el código escalable, enfocado en la ux del usuario y con mentalidad de aprendizaje continuo.
+- 📈 **Trayectoria:** Más de 2 años de experiencia y resolviendo problemas complejos en la industria tecnológica.
 - 🤝 **Colaboración:** Siempre abierto a nuevos retos profesionales, proyectos innovadores y oportunidades de networking.
 
 ---
 
 ## 💻 Mi Stack Tecnológico
-
-Selecciono cuidadosamente mis herramientas para garantizar el mejor rendimiento y mantenibilidad en cada proyecto.
 
 ### Frontend
 <p>
@@ -47,22 +44,12 @@ Selecciono cuidadosamente mis herramientas para garantizar el mejor rendimiento 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" />
 </p>
 
----
-
-## 📊 Impacto en Código
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByJuanRamirez&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByJuanRamirez&theme=tokyonight&hide_border=true&fire=38B2AC&ring=38B2AC" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByJuanRamirez&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <em>Impulsando el futuro web, un commit a la vez.</em> 🚀
+  <em>Crecimiento continuo, no dejemos de aprender</em> 🚀
 </div>
